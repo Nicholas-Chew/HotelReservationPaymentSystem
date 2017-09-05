@@ -1,0 +1,1334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_72" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="model.Room" id="Room0">
+    <void property="roomDetail">
+     <void method="add">
+      <string>1 Single Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi-Enabled</string>
+     </void>
+     <void method="add">
+      <string>Windowless</string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>201</string>
+    </void>
+    <void property="roomStatus">
+     <object class="java.lang.Enum" method="valueOf">
+      <class>model.Room$room_Status</class>
+      <string>Occupied</string>
+     </object>
+    </void>
+    <void property="roomType">
+     <object class="java.lang.Enum" id="Room$room_Type0" method="valueOf">
+      <class>model.Room$room_Type</class>
+      <string>Single</string>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room1">
+    <void property="roomDetail">
+     <void method="add">
+      <string>1 Single Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>Windowless</string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>202</string>
+    </void>
+    <void property="roomStatus">
+     <object class="java.lang.Enum" id="Room$room_Status0" method="valueOf">
+      <class>model.Room$room_Status</class>
+      <string>Vacant</string>
+     </object>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type0"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room2">
+    <void property="roomDetail">
+     <void method="add">
+      <string>1 Single Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>Windowless</string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>203</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type0"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room3">
+    <void property="roomDetail">
+     <void method="add">
+      <string>1 Single Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>Windowless</string>
+     </void>
+     <void method="add">
+      <string>Smoking Room</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>204</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type0"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room4">
+    <void property="roomDetail">
+     <void method="add">
+      <string>1 Single Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>Windowless</string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>205</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type0"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room5">
+    <void property="roomDetail">
+     <void method="add">
+      <string>1 Single Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>Windowless</string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>206</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type0"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room6">
+    <void property="roomDetail">
+     <void method="add">
+      <string>1 Single Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>Windowless</string>
+     </void>
+     <void method="add">
+      <string>Smoking Room</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>207</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type0"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room7">
+    <void property="roomDetail">
+     <void method="add">
+      <string>1 Single Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>Windowless</string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>208</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type0"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room8">
+    <void property="roomDetail">
+     <void method="add">
+      <string>1 Single Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>Windowless</string>
+     </void>
+     <void method="add">
+      <string>Smoking Room</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>209</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type0"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room9">
+    <void property="roomDetail">
+     <void method="add">
+      <string>1 Single Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>Windowless</string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>210</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type0"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room10">
+    <void property="roomDetail">
+     <void method="add">
+      <string>2 Single Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>Windowless</string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>211</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object class="java.lang.Enum" id="Room$room_Type1" method="valueOf">
+      <class>model.Room$room_Type</class>
+      <string>Double</string>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room11">
+    <void property="roomDetail">
+     <void method="add">
+      <string>2 Single Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>Windowless</string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>212</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type1"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room12">
+    <void property="roomDetail">
+     <void method="add">
+      <string>2 Single Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>Windowless</string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>213</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type1"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room13">
+    <void property="roomDetail">
+     <void method="add">
+      <string>2 Single Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>Windowless</string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>214</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type1"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room14">
+    <void property="roomDetail">
+     <void method="add">
+      <string>2 Single Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>Windowless</string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>215</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type1"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room15">
+    <void property="roomDetail">
+     <void method="add">
+      <string>2 Single Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>Windowless</string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>216</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type1"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room16">
+    <void property="roomDetail">
+     <void method="add">
+      <string>2 Single Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>1 Window</string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>301</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type1"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room17">
+    <void property="roomDetail">
+     <void method="add">
+      <string>2 Single Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>1 Window</string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>302</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type1"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room18">
+    <void property="roomDetail">
+     <void method="add">
+      <string>2 Single Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>1 Window</string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>303</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type1"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room19">
+    <void property="roomDetail">
+     <void method="add">
+      <string>2 Single Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>1 Window</string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>304</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type1"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room20">
+    <void property="roomDetail">
+     <void method="add">
+      <string>2 Single Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>1 Window</string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>305</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type1"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room21">
+    <void property="roomDetail">
+     <void method="add">
+      <string>2 Single Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>1 Window</string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>306</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type1"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room22">
+    <void property="roomDetail">
+     <void method="add">
+      <string>2 Single Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>1 Window</string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>307</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type1"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room23">
+    <void property="roomDetail">
+     <void method="add">
+      <string>2 Single Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>1 Window</string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>308</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type1"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room24">
+    <void property="roomDetail">
+     <void method="add">
+      <string>2 Single Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>2 Windows</string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>309</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type1"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room25">
+    <void property="roomDetail">
+     <void method="add">
+      <string>2 Single Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>1 Window</string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>310</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type1"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room26">
+    <void property="roomDetail">
+     <void method="add">
+      <string>Double Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>Panoramic Windows</string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>401</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object class="java.lang.Enum" id="Room$room_Type2" method="valueOf">
+      <class>model.Room$room_Type</class>
+      <string>Deluxe</string>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room27">
+    <void property="roomDetail">
+     <void method="add">
+      <string>Double Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>Panoramic Windows</string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>402</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type2"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room28">
+    <void property="roomDetail">
+     <void method="add">
+      <string>Double Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>Panoramic Windows</string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>403</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type2"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room29">
+    <void property="roomDetail">
+     <void method="add">
+      <string>Double Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>Panoramic Windows</string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>404</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type2"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room30">
+    <void property="roomDetail">
+     <void method="add">
+      <string>Double Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>Panoramic Windows</string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>405</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type2"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room31">
+    <void property="roomDetail">
+     <void method="add">
+      <string>Double Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>Panoramic Windows</string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>406</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type2"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room32">
+    <void property="roomDetail">
+     <void method="add">
+      <string>Double Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>Panoramic Windows</string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>501</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type2"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room33">
+    <void property="roomDetail">
+     <void method="add">
+      <string>Double Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>Panoramic Windows</string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>502</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type2"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room34">
+    <void property="roomDetail">
+     <void method="add">
+      <string>Double Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>Panoramic Windows</string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>503</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type2"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room35">
+    <void property="roomDetail">
+     <void method="add">
+      <string>Double Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>Panoramic Windows</string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>504</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type2"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room36">
+    <void property="roomDetail">
+     <void method="add">
+      <string>Double Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>Panoramic Windows</string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>505</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type2"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room37">
+    <void property="roomDetail">
+     <void method="add">
+      <string>Double Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>Panoramic Windows</string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>506</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type2"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room38">
+    <void property="roomDetail">
+     <void method="add">
+      <string>Double Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>Panoramic Windows</string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>507</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type2"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room39">
+    <void property="roomDetail">
+     <void method="add">
+      <string>Double Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>Panoramic Sea View  </string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>601</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type2"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room40">
+    <void property="roomDetail">
+     <void method="add">
+      <string>Double Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>Panoramic Sea View  </string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>602</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type2"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room41">
+    <void property="roomDetail">
+     <void method="add">
+      <string>Double Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>Panoramic Sea View  </string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>603</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type2"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room42">
+    <void property="roomDetail">
+     <void method="add">
+      <string>Double Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>Panoramic Sea View  </string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>604</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type2"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room43">
+    <void property="roomDetail">
+     <void method="add">
+      <string>Double Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>Panoramic Sea View  </string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>605</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type2"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room44">
+    <void property="roomDetail">
+     <void method="add">
+      <string>Double Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>Panoramic Windows</string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+     <void method="add">
+      <string>Panoramic Sea View  </string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>606</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type2"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room45">
+    <void property="roomDetail">
+     <void method="add">
+      <string>Double Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>Panoramic Sea View  </string>
+     </void>
+     <void method="add">
+      <string>Non-Smoking</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>607</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type2"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room46">
+    <void property="roomDetail">
+     <void method="add">
+      <string>Master Bed + 2 Double Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>Panoramic Sea View  </string>
+     </void>
+     <void method="add">
+      <string>Smoking</string>
+     </void>
+     <void method="add">
+      <string>Jacuzzi Tub</string>
+     </void>
+     <void method="add">
+      <string>Balcony</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>701</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object class="java.lang.Enum" id="Room$room_Type3" method="valueOf">
+      <class>model.Room$room_Type</class>
+      <string>VIP_Suite</string>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room" id="Room47">
+    <void property="roomDetail">
+     <void method="add">
+      <string>Master Bed + 2 Double Bed</string>
+     </void>
+     <void method="add">
+      <string>WiFi Enabled</string>
+     </void>
+     <void method="add">
+      <string>Panoramic Sea View</string>
+     </void>
+     <void method="add">
+      <string>Smoking</string>
+     </void>
+     <void method="add">
+      <string>Jacuzzi Tub</string>
+     </void>
+     <void method="add">
+      <string>Balcony</string>
+     </void>
+    </void>
+    <void property="roomNo">
+     <string>702</string>
+    </void>
+    <void property="roomStatus">
+     <object idref="Room$room_Status0"/>
+    </void>
+    <void property="roomType">
+     <object idref="Room$room_Type3"/>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

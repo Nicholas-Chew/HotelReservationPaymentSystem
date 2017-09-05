@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_74" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="model.Room_Service_Menu">
+    <void property="description">
+     <string>Deep fried fish fillet with fresh lime and orange juice, celery and black pepper</string>
+    </void>
+    <void property="name">
+     <string>Red Snapper Flambe</string>
+    </void>
+    <void property="price">
+     <double>20.0</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room_Service_Menu">
+    <void property="description">
+     <string>Belly pork seasoned and cooked to perfection in a honey glaze served on a bed of choi sum</string>
+    </void>
+    <void property="name">
+     <string>Cantonese Roast Pork</string>
+    </void>
+    <void property="price">
+     <double>15.0</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room_Service_Menu">
+    <void property="description">
+     <string>Char grilled sizzling sliced sirloin served well done with thai lemongrass and bird&apos;s eye chili dip</string>
+    </void>
+    <void property="name">
+     <string>Chili Beef</string>
+    </void>
+    <void property="price">
+     <double>20.0</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room_Service_Menu">
+    <void property="description">
+     <string>With shredded cucumber and tamarind sauce</string>
+    </void>
+    <void property="name">
+     <string>Peking Duck</string>
+    </void>
+    <void property="price">
+     <double>20.0</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room_Service_Menu">
+    <void property="description">
+     <string>Four tender french trimmed lamb chops marinated and served with sichuan peppercorns, spring onions and diced peppers</string>
+    </void>
+    <void property="name">
+     <string>Sichuan Beef</string>
+    </void>
+    <void property="price">
+     <double>20.0</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room_Service_Menu">
+    <void property="description">
+     <string>With aubergines, red chilli, sweer basil and lime leaves cooked in coconut milk</string>
+    </void>
+    <void property="name">
+     <string>Oriental Curry</string>
+    </void>
+    <void property="price">
+     <double>10.0</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room_Service_Menu">
+    <void property="description">
+     <string>Shredded cripsy duck served with pancakes, spring onions, cucumber and hoisin sauce</string>
+    </void>
+    <void property="name">
+     <string>Emperor&apos;s Duck</string>
+    </void>
+    <void property="price">
+     <double>8.0</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room_Service_Menu">
+    <void property="description">
+     <string>Spare ribs. Vegetable spring rolls. Prawn tempura. Chicken satay. Beef in teriyaki sauce</string>
+    </void>
+    <void property="name">
+     <string>Imperial Platter</string>
+    </void>
+    <void property="price">
+     <double>50.0</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room_Service_Menu">
+    <void property="description">
+     <string>Butter prawns. Steamed scallpos. Seafood wonton. Salt and chilli squid</string>
+    </void>
+    <void property="name">
+     <string>Empress Platter</string>
+    </void>
+    <void property="price">
+     <double>45.0</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room_Service_Menu">
+    <void property="description">
+     <string>A wonderful, zesty congiomeration of mixed seafood, curry spices, chillis and totamo on hokkien noodles</string>
+    </void>
+    <void property="name">
+     <string>Cantonese</string>
+    </void>
+    <void property="price">
+     <double>10.0</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room_Service_Menu">
+    <void property="description">
+     <string>Stir fried noodles with sliced beef, ginger, spring onions and soy</string>
+    </void>
+    <void property="name">
+     <string>Chow Quey Teaw</string>
+    </void>
+    <void property="price">
+     <double>10.0</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Room_Service_Menu">
+    <void property="description">
+     <string>Coke, Sprite, Seven-Up, Kickapo, Chrysanthemum tea, Winter melon tea</string>
+    </void>
+    <void property="name">
+     <string>Canned Drink</string>
+    </void>
+    <void property="price">
+     <double>3.0</double>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
